@@ -1,0 +1,611 @@
+# Copyright (C) 2016 Pressfore
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Rolo 0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rolo-slider\n"
+"POT-Creation-Date: 2016-06-17 08:44:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: cmb2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: cmb2/includes/CMB2.php:326
+msgid "Click to toggle"
+msgstr ""
+
+#: cmb2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: cmb2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: cmb2/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: cmb2/includes/CMB2_Field.php:891
+msgid "Add Group"
+msgstr ""
+
+#: cmb2/includes/CMB2_Field.php:892
+msgid "Remove Group"
+msgstr ""
+
+#: cmb2/includes/CMB2_Field.php:914 cmb2/includes/CMB2_Field.php:918
+msgid "None"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:86 cmb2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:118 cmb2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:136 cmb2/includes/CMB2_Types.php:983
+msgid "Remove Image"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:137 cmb2/includes/CMB2_Types.php:356
+#: cmb2/includes/CMB2_Types.php:1002
+msgid "Remove"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:138 cmb2/includes/CMB2_Types.php:997
+msgid "File:"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:139 cmb2/includes/CMB2_Types.php:1000
+msgid "Download"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:140
+msgid "Select / Deselect All"
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:297
+msgid "Add Row"
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:734 cmb2/includes/CMB2_Types.php:782
+msgid "No terms"
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:847
+msgid "Add or Upload Files"
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:907
+msgid "Add or Upload File"
+msgstr ""
+
+#: cmb2/includes/helper-functions.php:249
+msgid "Save"
+msgstr ""
+
+#: core/interface.php:52
+msgid "Delete Permanently"
+msgstr ""
+
+#: core/interface.php:54
+msgid "Move to Trash"
+msgstr ""
+
+#: core/interface.php:56
+msgid "Delete Slider"
+msgstr ""
+
+#: core/interface.php:64 core/interface.php:65
+msgid "Save Slider"
+msgstr ""
+
+#: core/interface.php:69 core/interface.php:70
+msgid "Update Slider"
+msgstr ""
+
+#: core/interface.php:102
+msgid "Slider Name"
+msgstr ""
+
+#: core/interface.php:103 core/metaboxes.php:257
+msgid "Layout"
+msgstr ""
+
+#: core/interface.php:104
+msgid "Shortcode"
+msgstr ""
+
+#: core/interface.php:156
+msgid "Documentation"
+msgstr ""
+
+#: core/metaboxes.php:23
+msgid "Slide Up"
+msgstr ""
+
+#: core/metaboxes.php:24
+msgid "Slide Down"
+msgstr ""
+
+#: core/metaboxes.php:25
+msgid "Fade"
+msgstr ""
+
+#: core/metaboxes.php:33 core/setup.php:147
+msgid "Slides"
+msgstr ""
+
+#: core/metaboxes.php:40
+msgid "Add/Remove New Slide"
+msgstr ""
+
+#: core/metaboxes.php:42
+msgid "Slide {#}"
+msgstr ""
+
+#: core/metaboxes.php:43
+msgid "Add Another Slide"
+msgstr ""
+
+#: core/metaboxes.php:44
+msgid "Remove Slide"
+msgstr ""
+
+#: core/metaboxes.php:51
+msgid "Slide Image"
+msgstr ""
+
+#: core/metaboxes.php:53
+msgid "Slide Image."
+msgstr ""
+
+#: core/metaboxes.php:59
+msgid "Title"
+msgstr ""
+
+#: core/metaboxes.php:65
+msgid "Title Animation"
+msgstr ""
+
+#: core/metaboxes.php:67 core/metaboxes.php:102 core/metaboxes.php:138
+#: core/metaboxes.php:195
+msgid "Set title animation intro."
+msgstr ""
+
+#: core/metaboxes.php:73
+msgid "Title Animation Duration"
+msgstr ""
+
+#: core/metaboxes.php:75 core/metaboxes.php:110 core/metaboxes.php:146
+msgid "Set the animation duration ."
+msgstr ""
+
+#: core/metaboxes.php:80
+msgid "Title Animation Delay"
+msgstr ""
+
+#: core/metaboxes.php:82 core/metaboxes.php:153 core/metaboxes.php:210
+msgid "Set the animation delay."
+msgstr ""
+
+#: core/metaboxes.php:87
+msgid "Title Animation Value"
+msgstr ""
+
+#: core/metaboxes.php:89 core/metaboxes.php:124 core/metaboxes.php:160
+#: core/metaboxes.php:217
+msgid "Set the animation starting point from which element will be animated."
+msgstr ""
+
+#: core/metaboxes.php:94
+msgid "Subtitle"
+msgstr ""
+
+#: core/metaboxes.php:100
+msgid "Subitle Animation"
+msgstr ""
+
+#: core/metaboxes.php:108
+msgid "Subitle Animation Duration"
+msgstr ""
+
+#: core/metaboxes.php:115
+msgid "Subitle Animation Delay"
+msgstr ""
+
+#: core/metaboxes.php:117
+msgid "Set the animation delay ."
+msgstr ""
+
+#: core/metaboxes.php:122
+msgid "Subtitle Animation Value"
+msgstr ""
+
+#: core/metaboxes.php:129
+msgid "Desription"
+msgstr ""
+
+#: core/metaboxes.php:131
+msgid "Highlight Content/Description."
+msgstr ""
+
+#: core/metaboxes.php:136
+msgid "Description Animation"
+msgstr ""
+
+#: core/metaboxes.php:144
+msgid "Description Animation Duration"
+msgstr ""
+
+#: core/metaboxes.php:151
+msgid "Description Animation Delay"
+msgstr ""
+
+#: core/metaboxes.php:158
+msgid "Description Animation Value"
+msgstr ""
+
+#: core/metaboxes.php:165
+msgid "Button 1 Text"
+msgstr ""
+
+#: core/metaboxes.php:167
+msgid "Add button 1 text."
+msgstr ""
+
+#: core/metaboxes.php:172
+msgid "Button 1 URL"
+msgstr ""
+
+#: core/metaboxes.php:174
+msgid "Add button 1 url."
+msgstr ""
+
+#: core/metaboxes.php:179
+msgid "Button 2 Text"
+msgstr ""
+
+#: core/metaboxes.php:181
+msgid "Add button 2 text."
+msgstr ""
+
+#: core/metaboxes.php:186
+msgid "Button 2 URL"
+msgstr ""
+
+#: core/metaboxes.php:188
+msgid "Add button 2 url."
+msgstr ""
+
+#: core/metaboxes.php:193
+msgid "Buttons Animation"
+msgstr ""
+
+#: core/metaboxes.php:201
+msgid "Buttons Animation Duration"
+msgstr ""
+
+#: core/metaboxes.php:203
+msgid "Set the animation duration."
+msgstr ""
+
+#: core/metaboxes.php:208
+msgid "Buttons Animation Delay"
+msgstr ""
+
+#: core/metaboxes.php:215
+msgid "Buttons Animation Value"
+msgstr ""
+
+#: core/metaboxes.php:222
+msgid "Layers Horizontal Position"
+msgstr ""
+
+#: core/metaboxes.php:224 core/metaboxes.php:236
+msgid "Set the alignment of the element on the picture."
+msgstr ""
+
+#: core/metaboxes.php:227
+msgid "Left"
+msgstr ""
+
+#: core/metaboxes.php:228
+msgid "Right"
+msgstr ""
+
+#: core/metaboxes.php:229
+msgid "Center"
+msgstr ""
+
+#: core/metaboxes.php:234
+msgid "Layers Vertical Position"
+msgstr ""
+
+#: core/metaboxes.php:239
+msgid "Top"
+msgstr ""
+
+#: core/metaboxes.php:240
+msgid "Middle"
+msgstr ""
+
+#: core/metaboxes.php:241
+msgid "Bottom"
+msgstr ""
+
+#: core/metaboxes.php:258
+msgid "General Options"
+msgstr ""
+
+#: core/metaboxes.php:328
+msgid "Select animation"
+msgstr ""
+
+#: core/metaboxes.php:339
+msgid "Slider Height"
+msgstr ""
+
+#: core/metaboxes.php:340
+msgid "Set the slider height."
+msgstr ""
+
+#: core/metaboxes.php:347
+msgid "Slide Speed"
+msgstr ""
+
+#: core/metaboxes.php:348
+msgid ""
+"Slide stransition speed, determines how fast will slides animate/scroll."
+msgstr ""
+
+#: core/metaboxes.php:368
+msgid "Show Mouse Icon"
+msgstr ""
+
+#: core/metaboxes.php:369
+msgid "You can choose to show the icon of the scrolling mouse."
+msgstr ""
+
+#: core/metaboxes.php:371 core/metaboxes.php:390 core/metaboxes.php:413
+#: core/metaboxes.php:472
+msgid "On"
+msgstr ""
+
+#: core/metaboxes.php:374 core/metaboxes.php:393 core/metaboxes.php:416
+#: core/metaboxes.php:475
+msgid "Off"
+msgstr ""
+
+#: core/metaboxes.php:380
+msgid "Mouse Icon Color"
+msgstr ""
+
+#: core/metaboxes.php:385
+msgid "Autoplay Settings"
+msgstr ""
+
+#: core/metaboxes.php:388
+msgid "Autoplay"
+msgstr ""
+
+#: core/metaboxes.php:402
+msgid "Autoplay Delay"
+msgstr ""
+
+#: core/metaboxes.php:403
+msgid "Delay between slides (in ms)"
+msgstr ""
+
+#: core/metaboxes.php:409
+msgid "Autoplay Stop"
+msgstr ""
+
+#: core/metaboxes.php:410
+msgid "Stop the autoplay when mouse enters the screen/phone area."
+msgstr ""
+
+#: core/metaboxes.php:425
+msgid "Icon Style"
+msgstr ""
+
+#: core/metaboxes.php:438
+msgid "Icon Color"
+msgstr ""
+
+#: core/metaboxes.php:443
+msgid "Icon Background Color"
+msgstr ""
+
+#: core/metaboxes.php:444
+msgid "Background color of the circle/square that holds the icon."
+msgstr ""
+
+#: core/metaboxes.php:450
+msgid "Hover Icon Color"
+msgstr ""
+
+#: core/metaboxes.php:451
+msgid "Arrow color when it is hovered with a mouse."
+msgstr ""
+
+#: core/metaboxes.php:457
+msgid "Hover Icon Background"
+msgstr ""
+
+#: core/metaboxes.php:458
+msgid "Arrow holder background when it is hovered with a mouse."
+msgstr ""
+
+#: core/metaboxes.php:464
+msgid "Screen navs"
+msgstr ""
+
+#: core/metaboxes.php:468
+msgid "Bullet Navigation"
+msgstr ""
+
+#: core/metaboxes.php:469
+msgid "Display or hide bullet-navigation."
+msgstr ""
+
+#: core/metaboxes.php:481
+msgid "Bullets Color"
+msgstr ""
+
+#: core/metaboxes.php:486
+msgid "Active Bullet Color"
+msgstr ""
+
+#: core/metaboxes.php:487
+msgid "Color of the currently active bullet."
+msgstr ""
+
+#: core/setup.php:146
+msgid "Slide"
+msgstr ""
+
+#: core/setup.php:148
+msgid "Add Slider"
+msgstr ""
+
+#: core/setup.php:149
+msgid "Add Slide"
+msgstr ""
+
+#: core/setup.php:150
+msgid "New Slide"
+msgstr ""
+
+#: core/setup.php:151
+msgid "Edit Slider"
+msgstr ""
+
+#: core/setup.php:152
+msgid "All Sliders"
+msgstr ""
+
+#: core/setup.php:153
+msgid "View Slider"
+msgstr ""
+
+#: core/setup.php:154
+msgid "No Slider found"
+msgstr ""
+
+#: core/setup.php:155
+msgid "No Slider found in trash"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Rolo Slider"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://pressfore.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Very Simple to use images slider for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PressFore"
+msgstr ""

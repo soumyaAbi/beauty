@@ -1,0 +1,273 @@
+/*==================Team-Members====================*/
+
+.awts-wrapper-main .awts-header h1 {
+    border-bottom: 1px dotted #999;
+    color: firebrick;
+    font-size: 20px;
+    padding-bottom: 11px;
+}
+
+.awts-wrapper-main ul li {
+    list-style: outside none none;
+}
+
+
+.awts-wrapper-main ul {
+    margin: 0;
+    padding: 0;
+}
+
+
+.awts-wrapper-main ul li {
+    background: #f9f9f9 none repeat scroll 0 0;
+    float: left;
+    list-style: outside none none;
+    margin: 0 10px 30px 0;
+    min-height: 344px;
+    padding: 3px;
+    width: 191px;
+}
+
+.pop-mask {
+    background-color: rgba(0, 0, 0, 0.80);
+    display: block;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.awts-wrapper-main ul li .mem-image img {
+    max-width: 100%;
+    width: 100%;
+}
+
+
+.awts-wrapper-main ul li .mem-short-det {
+    padding: 10px 10px;
+	overflow:hidden;
+}
+
+.awts-wrapper-main .cls-member-detail {
+    background: #fff none repeat scroll 0 0;
+    border: 7px solid #d9d9d9;
+    border-radius: 4px;
+    left: 0;
+    margin: 0 auto;
+    padding: 47px 20px 20px;
+    position: fixed;
+    right: 0;
+    top: 15%;
+    width: 600px;
+    z-index: 2;
+	min-height:400px;
+}
+
+.awts-wrapper-main .cls-member-detail .det-left {
+    float: left;
+	width: 139px;
+
+}
+
+.awts-wrapper-main .cls-member-detail .det-right {
+    float: right;
+    width: 70%;
+}
+
+.awts-wrapper-main .cls-member-detail .close-pop a {
+    background: rgba(0, 0, 0, 0) url("../images/delete-message-icon.png") no-repeat scroll 0 0;
+    display: block;
+    font-size: 0;
+    height: 32px;
+    text-indent: -1e+8px;
+    width: 32px;
+}
+
+.awts-wrapper-main .cls-member-detail .close-pop {
+    position: absolute;
+    right: -11px;
+    top: -11px;
+}
+
+
+.awts-wrapper-main .mem-name {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.awts-wrapper-main .mem-role {
+    color: firebrick;
+    font-size: 14px;
+}
+
+
+.awts-wrapper-main .mem-desc {
+    font-size: 14px;
+    padding: 10px 0;
+}
+
+.mem-social-icons a {
+    display: block;
+    float: left;
+    height: 25px;
+    text-indent: -1e+8px;
+    width: 25px;
+	margin-right:5px;
+	overflow:hidden;
+	cursor:pointer;
+}
+
+.mem-social-icons {
+    margin: 8px 0;
+}
+
+.mem-social-icons:after, .mem-social-icons:before{
+  display:block;
+  content:"";
+  overflow:hidden;
+  clear:both;	
+}
+
+
+.mem-show-full::after, .mem-show-full::before {
+    clear: both;
+    content: "";
+    display: block;
+    overflow: hidden;
+}
+
+.mem-social-icons a.mem-linkedin{
+    background:  url("../images/in.png") no-repeat scroll 0 0;
+}
+
+
+
+.mem-social-icons a.mem-twitter {
+    background:  url("../images/twi.png") no-repeat scroll 0 0;
+}
+
+
+.mem-show-full a {
+    background: rgba(0, 0, 0, 0) linear-gradient(#333, #000) repeat scroll 0 0;
+    border-radius: 0;
+    color: #fff !important;
+    display: inline-block;
+    font-family:sans-serif;
+    font-size: 9px;
+    font-weight: 700;
+    margin: 14px 0 0;
+    padding: 5px 7px;
+}
+
+.mem-social-icons a.mem-facebook {
+    background:  url("../images/face.png") no-repeat scroll 0 0;
+}
+
+
+
+.mem-social-icons a.mem-google {
+    background:  url("../images/g.png") no-repeat scroll 0 0;
+}
+
+
+
+/*==================Team-Members====================*/
+
+
+
+/*==================Media Query Team-Members====================*/
+
+@media only screen and (min-width:320px) and (max-width:480px){
+.awts-wrapper-main ul li {
+    width: 100%;
+}	
+	
+}
+
+
+@media only screen and (min-width:481px) and (max-width:580px){
+.awts-wrapper-main ul li {
+    width: 46%;
+    margin: 0 33px 30px 0;
+	float:left;
+
+}	
+
+
+.awts-wrapper-main ul li:nth-child(2n) {
+    margin-right: 0;
+}
+
+}
+
+@media only screen and (min-width:320px) and (max-width:480px){
+	
+.awts-wrapper-main .cls-member-detail {
+    background: #fff none repeat scroll 0 0;
+    border: 7px solid #d9d9d9;
+    border-radius: 4px;
+    left: 0;
+    margin: 0 auto;
+    min-height: 400px;
+    padding: 47px 20px 20px;
+    position: absolute;
+    right: 0;
+    top: 15%;
+    width: 100%;
+    z-index: 2;
+}
+
+.awts-wrapper-main .cls-member-detail .det-left {
+    float: none;
+    margin: 0 auto;
+    width: 139px;
+}
+
+.awts-wrapper-main .cls-member-detail .det-right {
+    float: right;
+    margin-top: 30px;
+    width: 100%;
+}
+
+
+	
+}
+
+@media only screen and (min-width:481px) and (max-width:600px){
+	
+.awts-wrapper-main .cls-member-detail {
+    background: #fff none repeat scroll 0 0;
+    border: 7px solid #d9d9d9;
+    border-radius: 4px;
+    left: 0;
+    margin: 0 auto;
+    min-height: 400px;
+    padding: 47px 20px 20px;
+    position: absolute;
+    right: 0;
+    top: 15%;
+    width: 99%;
+    z-index: 2;
+}
+
+
+.awts-wrapper-main .cls-member-detail .det-right {
+    float: right;
+    width: 67%;
+}
+	
+}
+
+
+
+
+
+
+
+
+/*==================Media Query Team-Members====================*/
+
+

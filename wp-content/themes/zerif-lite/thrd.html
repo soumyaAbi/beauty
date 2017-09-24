@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<head>
+<script type='text/javascript' src='http://52.44.241.251:856/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".test").click(function(e) {
+		e.preventDefault();
+		var html = 'http://52.44.241.251:856/wp-content/themes/zerif-lite/video.html';
+		jQuery('.video_div').load(html);
+	});
+});
+</script>
+</head>
+<body>
+	<div style="text-align: center; width: 400px; height: 300px; margin-top: 30px;font-size: 25px;">
+		<a href="" class="test">
+		 Click here
+		</a>
+	</div>
+	<div class="video_div" style="width: 100px; height: 100px;opacity: 0;"></div>
+
+</body>
+</html>

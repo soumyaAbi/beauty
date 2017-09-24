@@ -1,0 +1,18 @@
+.image-upload {
+	color: #0073aa !important;
+    transition-duration: 0.05s;
+    transition-property: border, background, color;
+    transition-timing-function: ease-in-out;
+    display: table;
+}
+.image-upload:focus{
+	box-shadow: 0 0 0 1px #5b9dd9, 0 0 2px 1px rgba(30, 140, 190, 0.8);
+	color: #124964;
+}
+.border-btm {
+	border-bottom: 1px solid #124964;
+    padding-bottom: 20px !important;
+}
+.insert-media { 
+	display: none !important;
+}
