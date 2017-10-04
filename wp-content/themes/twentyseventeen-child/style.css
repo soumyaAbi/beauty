@@ -46,7 +46,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	box-sizing:         border-box;
 }
 body {
-	background: #fff;
+	background: #242424;
 }
 article,
 aside,
@@ -181,10 +181,11 @@ button,
 input,
 select,
 textarea {
-	color: #404040;
+	color: #FFF;
 	font-size: 16px;
 	font-size: 1.6rem;
 	line-height: 1.5;
+	background-color: #242424;
 }
 h1, h2, h3, h4, h5, h6 {
 	clear: both;
@@ -1482,9 +1483,6 @@ object {
 	margin-right: 20px;
 	margin-top: 20px;
 }
-.navbar-inverse .navbar-nav>li:last-child {
-	margin-right: 0 !important;
-}
 .navbar-inverse .navbar-nav>li>a {
 	color: #404040;
 	padding: 0;
@@ -1494,9 +1492,6 @@ object {
 	display: inline;
 	margin-right: 20px;
 	margin-top: 20px;
-}
-.navbar-inverse .main-navigation > ul > li:last-child {
-	margin-right: 0 !important;
 }
 .navbar-inverse .main-navigation > ul > li > a {
 	color: #404040;
@@ -1551,7 +1546,7 @@ object {
 	height: 76px;
 	position: relative;
 	line-height: 60px;
-	padding: 7px 15px;
+	padding: 0 15px;
 	display: inline-block;
 }
 .navbar-brand > img {
@@ -3813,7 +3808,7 @@ article .posted-on a:hover{
 	border: 1px solid rgba(0, 0, 0, 0.1);
 	border-radius: 0;
 	margin-top: 2px;
-	border-radius: 5px!important;
+	border-radius: 5px !important;
 	padding: 6px;
 	min-width: 110px;
 }
